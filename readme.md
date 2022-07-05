@@ -5,6 +5,7 @@
   <img alt="Portfólio" title="Portfólio" src="Readme.gif" height="425" />
 </h1>
 
+---
 ### Tecnológias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -17,12 +18,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 ### Link
 
-Clique no link abaixo para abrir e testar o site:
-
-<a href="https://giselle-souza.github.io/portfolio/" target="_blank">
-    <button style="background: #4263EB;
-    color: white; border: none; width: 150px; padding: 10px;">Clique aqui</button>
-</a>
+<p style="font-size: 12px">
+  <a href="https://giselle-souza.github.io/portfolio/" target="_blank">Clique aqui</a> para abrir e testar o site.</p>
 
 ---
 
