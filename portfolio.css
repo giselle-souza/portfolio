@@ -15,7 +15,7 @@ body{
 .container{
     text-align: center;
     width: 300px;
-    margin: 60px auto 0px;
+    margin: 40px auto 0px;
 }
 
 img{
@@ -31,24 +31,28 @@ img.avatar{
     transition: 400ms;
 }
 
+img.avatar:hover{
+    border: solid 4px #364FC7;
+    padding: 0px;
+}
+
 h1{
-    font-size: 32px;
+    font-size: 30px;
     color: #00082F;
-    margin-top: 24px;
-    margin-left: 8px;
+    margin-top: 18px;
+    margin-bottom: 8px;
 }
 
 .text{
     font-family: 'Roboto Mono', monospace;
     color: #00082F;
     opacity: 0.8;
-    font-size: 18;
-
+    font-size: 15px;
 }
 
 ul{
     list-style: none;
-    margin: 48px 0;
+    margin: 30px 0;
 }
 
 
@@ -56,13 +60,12 @@ ul{
 ul li a{
     display: flex;
     align-items: center;
-    justify-content: center;  /* conteudo ao centro */
-    height: 53px;
+    justify-content: center;
+    height: 42px;
     background: #4263EB;
     color: white;
-    /* text-transform: uppercase; */
     font-size: 14px;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
     border-radius: 6px;
     transition: background 400ms;
 }
@@ -81,8 +84,4 @@ footer {
 
 footer:hover{
     opacity: 1;
-}
-
-footer a{
-    color: #00082F;
 }
