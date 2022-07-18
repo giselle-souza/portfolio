@@ -19,13 +19,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Link
 
 <p style="font-size: 12px">
-  <a href="https://giselle-souza.github.io/portfolio/" target="_blank">Clique aqui</a> para abrir e testar o site.</p>
+  <a href="https://gisellesouzaa.github.io/portfolio/" target="_blank">Clique aqui</a> para abrir e testar o site.</p>
 
 ---
 
 
 ### Autor
-<img alt="Giselle Souza" title="Giselle Souza" src="https://github.com/giselle-souza.png" height="100" width="100"/>
+<img alt="Giselle Souza" title="Giselle Souza" src="https://github.com/gisellesouzaa.png" height="100" width="100"/>
 
 Feito com ❤️ por Giselle Souza. 👋,
 <br>
