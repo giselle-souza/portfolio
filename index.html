@@ -7,22 +7,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Giselle Souza">
-    <meta name="description" content="Portfólio com os trabalhos realizados pela desenvolvedora Giselle Souza.">
+    <meta name="description" content="Links de alguns projetos realizados pela desenvolvedora Giselle Souza.">
     <link rel="shortcut icon" href="clip.png" type="image/x-icon">
     <link rel="stylesheet" href="portfolio.css">
     <title>Portfólio</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Roboto:wght@500;700&display=swap" rel="stylesheet">
   </head>
 
-  <body>  
-    <div class="container">
+  <body class="dark-pink">  
+    <div class="container text">
       <a href="https://github.com/gisellesouzaa" target="_blank">
         <img class="avatar" 
         src="https://github.com/gisellesouzaa.png" 
         alt="Foto da Giselle Souza"/>
       </a>
       <h1>Giselle Souza</h1>
-      <p class="text">Portfólio com os links das minhas webpages hospedadas no GitHub.</p>
+      <p class="text">Links com algunas das minhas webpages hospedadas no GitHub.</p>
+
+      <br>
+      <p>Escolha um dos temas:</p>
+      <button id="ThemePink" onclick="ThemePink()">Rosa claro</button>
+      <button id="ThemeDarkPink" onclick="ThemeDarkPink()">Rosa escuro</button>
+      <button id="ThemeBlue" onclick="ThemeBlue()">Azul claro</button>
+      <button  id="ThemeDarkBlue" onclick="ThemeDarkBlue()">Azul Escuro</button>  
 
       <ul>
         <li>
@@ -56,5 +63,6 @@
 
       <footer>Feito com ❤️ por Giselle Souza.<br> <a href="https://github.com/gisellesouzaa" target="_blank"><cite>Saiba mais</cite></a></footer>
     </div>
+    <script src="script.js"></script>
   </body>
 </html>
